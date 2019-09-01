@@ -1,5 +1,5 @@
 # ONLINE COMPANY HUB
 
-1.[Online company](Company.md)
+1.[Online company](OnlineCompany.md)
 <br />
 2.Hub
