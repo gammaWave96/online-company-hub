@@ -1,2 +1,2 @@
-# online-company-hub
-online-company-hub
+# Online Company Hub
+## What is that and why?
