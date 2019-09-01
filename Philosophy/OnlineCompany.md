@@ -1,6 +1,6 @@
 ## Online Company
 
-1.Company types
+1.[Company types](OnlineCompany/CompanyTypes)
 <br />
 2.Activity dots
 <br />
