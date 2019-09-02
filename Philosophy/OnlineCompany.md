@@ -2,7 +2,7 @@
 
 1.[Company types](OnlineCompany/CompanyTypes.md)
 <br />
-2.[Activity](Philosophy/OnlineCompany/Activity.md)
+2.[Activity](OnlineCompany/Activity.md)
 <br />
 3.Ranking and Rights
 <br />
