@@ -1,7 +1,6 @@
 ## Activity
 ### Tracking
 ### Last time activity dots
-<br />
 Last users login dots ex:
 <br />
 Blue:active
@@ -19,6 +18,7 @@ Red:14 days
 Gray: 30days
 <br />
 Black:30+ days , not active
+<br />
 
 
 ### Activity energy
