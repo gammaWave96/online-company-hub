@@ -1,14 +1,23 @@
 ## Activity
 ### Tracking
 ### Last time activity dots
+<br />
 Last users login dots ex:
+<br />
 Blue:active
+<br />
 Cyan:1h(last time)
+<br />
 Green:12h
+<br />
 Yellow:3 days
+<br />
 Orange:7 days
+<br />
 Red:14 days
+<br />
 Gray: 30days
+<br />
 Black:30+ days , not active
 
 
