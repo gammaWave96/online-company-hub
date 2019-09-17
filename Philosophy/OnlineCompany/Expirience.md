@@ -2,6 +2,6 @@
 - with each activity
 - with job completion
 
-##Types of expirience
+## Types of expirience
 - overall(global)
 - job gruop
