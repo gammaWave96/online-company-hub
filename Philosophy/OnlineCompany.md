@@ -1,6 +1,6 @@
 ## Online Company
 
-0.[Intro](Philosophy/OnlineCompany/Intro.md)
+0.[Intro](OnlineCompany/Intro.md)
 <br />
 1.[Company types](OnlineCompany/CompanyTypes.md)
 <br />
