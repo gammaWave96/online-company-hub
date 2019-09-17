@@ -6,7 +6,7 @@
 <br />
 2.[Activity](OnlineCompany/Activity.md)
 <br />
-3.Ranking and Rights
+3.[Ranking and Rights](OnlineCompany/RankingAndRights.md)
 <br />
 4.Gradual democracy
 <br />
