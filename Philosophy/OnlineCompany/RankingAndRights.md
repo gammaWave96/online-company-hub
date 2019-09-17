@@ -17,14 +17,14 @@
 8.Crown of crowns(First one,Leader)
 
 ## Rights:
-- Can participate on Forum
-- Can donate money
-- Can't be involved in practical part
-- Can't earn money
-- Can't set center
-- Can't vote
-- Can't move rule
-- Can't change system
+- articipate on Forum
+- donate money
+- be involved in practical part
+- earn money
+- set center
+- vote
+- move rule
+- change system
 
 
 ## Relation:
