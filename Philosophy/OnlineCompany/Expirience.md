@@ -4,4 +4,4 @@
 
 ## Types of expirience
 - overall(global)
-- job gruop
+- job type
