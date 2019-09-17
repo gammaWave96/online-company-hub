@@ -10,9 +10,9 @@
 <br />
 4.[Types of job](OnlineCompany/TypesOfJobs.md)
 <br />
-5.Expirience
+5.[Expirience](OnlineCompany/Expirience.md)
 <br />
-6.Company health
+6.[Company health](Philosophy/OnlineCompany/CompanyHealth.md)
 <br />
 7.Gradual democracy
 <br />
