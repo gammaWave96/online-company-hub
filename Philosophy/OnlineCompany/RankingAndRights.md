@@ -17,23 +17,28 @@
 8.Crown of crowns(First one,Leader)
 
 ## Rights:
-#### 1.Newcomer
 - Can participate on Forum
+- Can donate money
 - Can't be involved in practical part
 - Can't earn money
+- Can't set center
 - Can't vote
 - Can't move rule
 - Can't change system
+
+
+## Relation:
+#### 1.Newcomer
+
 <br />
-2.Egg
+#### 2.Egg
+
 <br />
-3.Beginner
+### 4.Contributor
 <br />
-4.Contributor
+### 5.Influencer
 <br />
-5.Influencer
+### 6.Head
 <br />
-6.Head
-<br />
-7.Crown
+### 7.Crown
 <br />
