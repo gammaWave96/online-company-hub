@@ -12,7 +12,7 @@
 <br />
 5.[Expirience](OnlineCompany/Expirience.md)
 <br />
-6.[Company health](Philosophy/OnlineCompany/CompanyHealth.md)
+6.[Company health](OnlineCompany/CompanyHealth.md)
 <br />
 7.Gradual democracy
 <br />
