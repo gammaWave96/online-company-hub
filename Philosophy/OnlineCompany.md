@@ -1,5 +1,7 @@
 ## Online Company
 
+0.[Intro](Philosophy/OnlineCompany/Intro.md)
+<br />
 1.[Company types](OnlineCompany/CompanyTypes.md)
 <br />
 2.[Activity](OnlineCompany/Activity.md)
