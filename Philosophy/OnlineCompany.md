@@ -8,11 +8,15 @@
 <br />
 3.[Ranking and Rights](OnlineCompany/RankingAndRights.md)
 <br />
-4.Gradual democracy
+4.Expirience
 <br />
-5.Sharing money rule
+5.Company health
 <br />
-6.Avoid negative manipulatoin
+6.Gradual democracy
 <br />
-7.Types of job and sections
+7.Sharing money rule
+<br />
+8.Avoid negative manipulatoin
+<br />
+9.Types of job and sections
 <br />
