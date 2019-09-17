@@ -24,7 +24,7 @@
 - set center(primary job)
 - vote
 - move rule
-- give job
+- create job
 - change system
 
 
@@ -34,13 +34,20 @@
 - +donate money
 <br />
 #### 2.Egg
-
+- +be involved in practical part
+- +earn money
 <br />
+#### 3.Beginner
+- +set center(primary job)
 #### 4.Contributor
+- +vote
 <br />
 #### 5.Influencer
+- +move rule
 <br />
 #### 6.Head
+- +create job
 <br />
 #### 7.Crown
+- +change system
 <br />
