@@ -8,7 +8,7 @@
 <br />
 3.[Ranking and Rights](OnlineCompany/RankingAndRights.md)
 <br />
-4.Types of job 
+4.[Types of job](OnlineCompany/TypesOfJobs.md)
 <br />
 5.Expirience
 <br />
